@@ -1,1 +1,1 @@
-print("Hello World Build by gitSCM ... changes ...")
+print("Hello World Build by gitSCM")
